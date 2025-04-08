@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eleves\\Desktop\\ArticleManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA640BFA-4DE3-4B24-908A-1D77A38DCCB2}|ArticleManager\\ArticleManager.csproj|c:\\users\\eleves\\desktop\\articlemanager\\articlemanager\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA640BFA-4DE3-4B24-908A-1D77A38DCCB2}|ArticleManager\\ArticleManager.csproj|solutionrelative:articlemanager\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA640BFA-4DE3-4B24-908A-1D77A38DCCB2}|ArticleManager\\ArticleManager.csproj|C:\\Users\\eleves\\Desktop\\ArticleManager\\articlemanager\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA640BFA-4DE3-4B24-908A-1D77A38DCCB2}|ArticleManager\\ArticleManager.csproj|solutionrelative:articlemanager\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA640BFA-4DE3-4B24-908A-1D77A38DCCB2}|ArticleManager\\ArticleManager.csproj|C:\\Users\\eleves\\Desktop\\ArticleManager\\articlemanager\\articleform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA640BFA-4DE3-4B24-908A-1D77A38DCCB2}|ArticleManager\\ArticleManager.csproj|solutionrelative:articlemanager\\articleform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA640BFA-4DE3-4B24-908A-1D77A38DCCB2}|ArticleManager\\ArticleManager.csproj|C:\\Users\\eleves\\Desktop\\ArticleManager\\articlemanager\\articleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA640BFA-4DE3-4B24-908A-1D77A38DCCB2}|ArticleManager\\ArticleManager.csproj|solutionrelative:articlemanager\\articleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA640BFA-4DE3-4B24-908A-1D77A38DCCB2}|ArticleManager\\ArticleManager.csproj|C:\\Users\\eleves\\Desktop\\ArticleManager\\articlemanager\\articleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA640BFA-4DE3-4B24-908A-1D77A38DCCB2}|ArticleManager\\ArticleManager.csproj|solutionrelative:articlemanager\\articleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA640BFA-4DE3-4B24-908A-1D77A38DCCB2}|ArticleManager\\ArticleManager.csproj|C:\\Users\\eleves\\Desktop\\ArticleManager\\articlemanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA640BFA-4DE3-4B24-908A-1D77A38DCCB2}|ArticleManager\\ArticleManager.csproj|solutionrelative:articlemanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA640BFA-4DE3-4B24-908A-1D77A38DCCB2}|ArticleManager\\ArticleManager.csproj|C:\\Users\\eleves\\Desktop\\ArticleManager\\articlemanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA640BFA-4DE3-4B24-908A-1D77A38DCCB2}|ArticleManager\\ArticleManager.csproj|solutionrelative:articlemanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArticleForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\eleves\\Desktop\\ArticleManager\\ArticleManager\\ArticleForm.Designer.cs",
+              "RelativeDocumentMoniker": "ArticleManager\\ArticleForm.Designer.cs",
+              "ToolTip": "C:\\Users\\eleves\\Desktop\\ArticleManager\\ArticleManager\\ArticleForm.Designer.cs",
+              "RelativeToolTip": "ArticleManager\\ArticleForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T17:40:12.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArticleForm.cs",
+              "DocumentMoniker": "C:\\Users\\eleves\\Desktop\\ArticleManager\\ArticleManager\\ArticleForm.cs",
+              "RelativeDocumentMoniker": "ArticleManager\\ArticleForm.cs",
+              "ToolTip": "C:\\Users\\eleves\\Desktop\\ArticleManager\\ArticleManager\\ArticleForm.cs",
+              "RelativeToolTip": "ArticleManager\\ArticleForm.cs",
+              "ViewState": "AgIAAHcBAAAAAAAAAAAowJoBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T17:39:09.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArticleForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\eleves\\Desktop\\ArticleManager\\ArticleManager\\ArticleForm.cs",
+              "RelativeDocumentMoniker": "ArticleManager\\ArticleForm.cs",
+              "ToolTip": "C:\\Users\\eleves\\Desktop\\ArticleManager\\ArticleManager\\ArticleForm.cs [Design]",
+              "RelativeToolTip": "ArticleManager\\ArticleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T17:39:05.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\eleves\\Desktop\\ArticleManager\\ArticleManager\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ArticleManager\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\eleves\\Desktop\\ArticleManager\\ArticleManager\\Form1.Designer.cs",
+              "RelativeToolTip": "ArticleManager\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T17:36:55.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\eleves\\Desktop\\ArticleManager\\ArticleManager\\Article.cs",
+              "RelativeDocumentMoniker": "ArticleManager\\Article.cs",
+              "ToolTip": "C:\\Users\\eleves\\Desktop\\ArticleManager\\ArticleManager\\Article.cs",
+              "RelativeToolTip": "ArticleManager\\Article.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T17:34:15.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\eleves\\Desktop\\ArticleManager\\ArticleManager\\Form1.cs",
+              "RelativeDocumentMoniker": "ArticleManager\\Form1.cs",
+              "ToolTip": "C:\\Users\\eleves\\Desktop\\ArticleManager\\ArticleManager\\Form1.cs",
+              "RelativeToolTip": "ArticleManager\\Form1.cs",
+              "ViewState": "AgIAALkBAAAAAAAAAAAwwN0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T17:33:13.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\eleves\\Desktop\\ArticleManager\\ArticleManager\\Form1.cs",
+              "RelativeDocumentMoniker": "ArticleManager\\Form1.cs",
+              "ToolTip": "C:\\Users\\eleves\\Desktop\\ArticleManager\\ArticleManager\\Form1.cs [Design]",
+              "RelativeToolTip": "ArticleManager\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T17:33:04.144Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

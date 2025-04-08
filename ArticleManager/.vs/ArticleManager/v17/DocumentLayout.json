@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ilyes\\source\\repos\\ArticleManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA640BFA-4DE3-4B24-908A-1D77A38DCCB2}|ArticleManager\\ArticleManager.csproj|c:\\users\\ilyes\\source\\repos\\articlemanager\\articlemanager\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA640BFA-4DE3-4B24-908A-1D77A38DCCB2}|ArticleManager\\ArticleManager.csproj|solutionrelative:articlemanager\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA640BFA-4DE3-4B24-908A-1D77A38DCCB2}|ArticleManager\\ArticleManager.csproj|c:\\users\\ilyes\\source\\repos\\articlemanager\\articlemanager\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA640BFA-4DE3-4B24-908A-1D77A38DCCB2}|ArticleManager\\ArticleManager.csproj|solutionrelative:articlemanager\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA640BFA-4DE3-4B24-908A-1D77A38DCCB2}|ArticleManager\\ArticleManager.csproj|C:\\Users\\ilyes\\source\\repos\\ArticleManager\\articlemanager\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA640BFA-4DE3-4B24-908A-1D77A38DCCB2}|ArticleManager\\ArticleManager.csproj|solutionrelative:articlemanager\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA640BFA-4DE3-4B24-908A-1D77A38DCCB2}|ArticleManager\\ArticleManager.csproj|C:\\Users\\ilyes\\source\\repos\\ArticleManager\\articlemanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA640BFA-4DE3-4B24-908A-1D77A38DCCB2}|ArticleManager\\ArticleManager.csproj|solutionrelative:articlemanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA640BFA-4DE3-4B24-908A-1D77A38DCCB2}|ArticleManager\\ArticleManager.csproj|C:\\Users\\ilyes\\source\\repos\\ArticleManager\\articlemanager\\articleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA640BFA-4DE3-4B24-908A-1D77A38DCCB2}|ArticleManager\\ArticleManager.csproj|solutionrelative:articlemanager\\articleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArticleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ilyes\\source\\repos\\ArticleManager\\ArticleManager\\ArticleRepository.cs",
+              "RelativeDocumentMoniker": "ArticleManager\\ArticleRepository.cs",
+              "ToolTip": "C:\\Users\\ilyes\\source\\repos\\ArticleManager\\ArticleManager\\ArticleRepository.cs",
+              "RelativeToolTip": "ArticleManager\\ArticleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T20:47:05.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticleController.cs",
+              "DocumentMoniker": "C:\\Users\\ilyes\\source\\repos\\ArticleManager\\ArticleManager\\ArticleController.cs",
+              "RelativeDocumentMoniker": "ArticleManager\\ArticleController.cs",
+              "ToolTip": "C:\\Users\\ilyes\\source\\repos\\ArticleManager\\ArticleManager\\ArticleController.cs",
+              "RelativeToolTip": "ArticleManager\\ArticleController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T20:46:32.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\ilyes\\source\\repos\\ArticleManager\\ArticleManager\\Article.cs",
+              "RelativeDocumentMoniker": "ArticleManager\\Article.cs",
+              "ToolTip": "C:\\Users\\ilyes\\source\\repos\\ArticleManager\\ArticleManager\\Article.cs",
+              "RelativeToolTip": "ArticleManager\\Article.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T17:34:15.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArticleForm.cs",
+              "DocumentMoniker": "C:\\Users\\ilyes\\source\\repos\\ArticleManager\\ArticleManager\\ArticleForm.cs",
+              "RelativeDocumentMoniker": "ArticleManager\\ArticleForm.cs",
+              "ToolTip": "C:\\Users\\ilyes\\source\\repos\\ArticleManager\\ArticleManager\\ArticleForm.cs",
+              "RelativeToolTip": "ArticleManager\\ArticleForm.cs",
+              "ViewState": "AQIAAG8BAAAAAAAAAAAUwCsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T17:39:09.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ilyes\\source\\repos\\ArticleManager\\ArticleManager\\Form1.cs",
+              "RelativeDocumentMoniker": "ArticleManager\\Form1.cs",
+              "ToolTip": "C:\\Users\\ilyes\\source\\repos\\ArticleManager\\ArticleManager\\Form1.cs",
+              "RelativeToolTip": "ArticleManager\\Form1.cs",
+              "ViewState": "AQIAAIQBAAAAAAAAAAAcwJIBAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T17:33:13.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
